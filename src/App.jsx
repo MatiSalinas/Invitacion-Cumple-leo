@@ -63,45 +63,10 @@ const App = () => {
             </div>
         </div>
           <div className="fotos">
-              <div className="embla" ref={emblaRef}>
-                <div className="embla__container">
-                  <div className="embla__slide"><img src="images/foto1.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto2.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto3.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto4.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto5.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto6.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto7.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto8.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto9.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto10.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto11.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto12.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto13.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto14.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto15.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto16.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto17.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto18.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto19.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto20.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto21.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto22.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto23.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto24.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto25.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto26.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto27.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto28.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto29.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto30.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto31.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto32.jpg" alt=""  /></div>
-                  <div className="embla__slide"><img src="images/foto33.jpg" alt=""  /></div>
 
-                  
-                </div>
-            </div>
+                  <img src="images/finales/foto1.jpg" alt=""  />
+                  <img src="images/finales/foto2.jpg" alt=""  />            
+              
           </div>
             <div className="info">
               <h2 >
